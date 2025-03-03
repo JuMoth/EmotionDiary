@@ -56,6 +56,10 @@
     font-size: 18px;
 }
 
-.DiaryItem .button_seciton {
+.DiaryItem .button_section {
     min-width: 70px;
+    
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
 }
